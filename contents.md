@@ -2,7 +2,7 @@
 
 
 
-- Preface:  the Venetus A and HC MID (Neel Smith)
+- Preface:  the Venetus A and HC MID 
 - Paleography 
     - The hands of the Venetus A
     - Byzantine orthography
