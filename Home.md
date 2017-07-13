@@ -1,3 +1,3 @@
-Welcome to the wiki for HC MID's "How to read the oldest MS of the Iliad" project.
+Welcome to the "Reading the Venetus A: Recapturing an HCMID Legacy" 
 
-See the working draft of a [table of contents](contents), with names of leaders in developing various sections.
+You can find our working draft of the Table of Contents [here](contents.md). You can use one of those topics for your inspiration to share your perspective on the editing and reading process as well as the social history of our mighty organization. 
