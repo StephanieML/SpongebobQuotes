@@ -1,0 +1,7 @@
+The overall goal is to create a sort of "reader's guide" to the oldest complete manuscript of the Iliad. This will not be a rehashing of the editors guide for the Homer Multitext project, nor will it attempt to duplicate other publications that have been previously produced on the Venetus A. 
+
+Instead, we want to help anyone interested understand the manuscript as a whole: from its history, to its construction, to all of the texts within in. We, the members of the HMT project, want to tell the story of how we learned to edit and understand the Venetus A, share what we've learned in the process, and document how we've gotten to where we are today. Our hope is that, through this book, a wider audience will be able to to use the digital photography of the manuscript and our accompanying editions most effectively.
+
+The idea for this project was born during the summer of 2015, with the aim that a draft of the book would be completed around the time when the publication of the entire manuscript will be released. The HMT summer research team and our advisors think that this work will be a valuable complement to the publication of the manuscript. The book will be published digitally, as well as in a printed format down the road. 
+
+An important aspect of the publication of this work is its collaborative and digital nature. This book will have a number of contributors, all of whom have worked closely with the Venetus A. This allows each contributor to write about a part of the project that most closely aligns with their own knowledge and experience.
